@@ -20,12 +20,7 @@ Hope you like the Repo.
 2. messagebox
 3. webbrowser
 4. pydictionary
-
-                 _> time
-              /  
-5. datetime --
-              \ 
-                 _> date
+5. datetime ( can import date and time seperately )
                  
                  
   
